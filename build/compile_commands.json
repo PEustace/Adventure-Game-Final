@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/submarine.dir/Game.cpp.o -c /mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Game.cpp",
+  "file": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Game.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/submarine.dir/Map.cpp.o -c /mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Map.cpp",
+  "file": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Map.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/submarine.dir/Node.cpp.o -c /mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Node.cpp",
+  "file": "/mnt/c/Users/Phill/Documents/W_Dev/C++/final_peustace/Final/Node.cpp"
+}
+]
